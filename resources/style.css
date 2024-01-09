@@ -1,0 +1,211 @@
+header
+{
+    background-image: url("../resources/Banner.png");
+    width: 1320px;
+    height: 600px;
+    margin-left: 100px;
+    background-color:darkblue;
+}
+.banner
+{
+    text-align: center;
+    font-family: Merriweather;
+    
+}
+.new-year-greeting
+{
+font-size: 40px;
+color: white;
+font-weight: 400;
+padding: 210px 12px 10px 10px ;
+margin-bottom: 0px;
+}
+.new-year-party
+{
+    font-size: 72px;
+    color: rgb(211, 214, 216);
+    font-weight: 900px;
+    width: 500px;
+    padding-left: 400px;
+    margin-top: 0px;
+}
+
+.discount-class
+{
+    text-align: center;
+    margin: 150px;
+}
+.off{
+color: #F00;
+font-family: Inter;
+font-size: 70px;
+font-weight: 700;
+}
+.our-holiday
+{
+color: #F00;
+font-family: Inter;
+font-size: 18px;
+font-weight: 400;
+}
+.all-products
+{
+color: #070211;
+font-size: 35px;
+font-family: Inter;
+font-weight: 700;
+margin-top: 8px;
+}
+.midnight
+{
+    display: flex;
+    color: white;
+    background-image: url('../resources/Vectorrr.png');
+    background-repeat: no-repeat;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.midnight-title
+{
+font-family: Merriweather;
+font-size: 70px;
+font-weight: 900;
+padding-top: 50px;
+padding-left: 200px;
+}
+.midnight-description
+{
+    padding-left: 200px;
+    margin-top: 0px;
+    font-family: Inter;
+    font-size: 18px;
+
+}
+.mid-join
+{
+    margin-left: 300px;
+    margin-top: 20px;
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    border: 2px solid black;
+    border-radius: 1px;
+    background: none;
+    color: white;
+}
+.mid-image
+{
+    margin-left: 100px;
+    margin-top: 50px;
+}
+
+.vector
+{
+    width:1305px;
+    height: 442px;
+    background-color: #dfc3c3;
+    margin-top: 50px;
+    margin-left: 100px;
+    margin-bottom: 50px;
+}
+.vector-contai
+{
+    text-align: center;
+    padding: 100PX 385PX 150PX 385PX;
+    color: #070211;
+   font-family: Inter;
+   font-size: 30px;
+   font-weight: 600;
+}
+.vector-title
+{
+    margin-bottom: 20PX;
+    margin-top: 10px;
+}
+.vec-span
+{
+    color: #F00;
+}
+.vec-but
+{
+border-radius: 8px;
+background: #F00;
+color: white;
+border: 5px;
+padding: 20px;
+}
+
+.offer
+{
+    display: flex;
+    width:1305px;
+    height: 442px;
+    background-color: #efe4e4;
+    margin-top: 50px;
+    margin-left: 100px;
+    margin-bottom: 50px;
+}
+.offer-image{
+ margin-top: 50px;
+ margin-left: 100px;
+   
+}
+.off-img1
+{
+    border-radius:50%;
+    border: 5px solid tomato;
+    padding: 10px;
+}
+.offer-container
+{
+    max-width: 550px;
+}
+.offer-t
+{
+color: #F00;
+font-family: Inter;
+font-size: 24px;
+font-weight: 500;
+padding-top: 50px;
+margin-bottom:5px;
+margin-top: 1px;
+}
+.offer-t2
+{
+color: #070211;
+font-family: Merriweather;
+font-size: 48px;
+font-weight: 900;
+margin-bottom:5px;
+margin-top: 1px;
+}
+.offer-descrip
+{
+color: rgba(7, 2, 17, 0.60);
+font-family: Inter;
+font-size: 20px;
+font-weight: 400;
+margin-bottom:5px;
+margin-top: 1px;
+}
+.offer-sal
+{
+    padding-top: 25px;
+    padding-left: 200px;
+    padding-right: 0px;
+
+}
+.sal-t
+{
+ color: #F00;
+font-family: Inter;
+font-size: 48px;
+font-weight: 700;
+}
+.sal-decrip
+{
+ color: black;
+font-family: Inter;
+font-size: 20px;
+font-weight: 400;
+}
