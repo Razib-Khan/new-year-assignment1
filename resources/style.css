@@ -1,3 +1,8 @@
+*
+{
+    padding: 0px;
+    margin: 0px;
+}
 header
 {
     background-image: url("../resources/Banner.png");
@@ -5,6 +10,7 @@ header
     height: 600px;
     margin-left: 100px;
     background-color:darkblue;
+    margin-top: 50px;
 }
 .banner
 {
@@ -208,4 +214,48 @@ font-weight: 700;
 font-family: Inter;
 font-size: 20px;
 font-weight: 400;
+}
+.holiday
+{
+    width:1305px;
+    height: 600px;
+    display:block;
+    background-color: bisque;
+    margin-top: 50px;
+    margin-left: 100px;
+    margin-bottom: 50px;
+}
+.holiday-container
+{
+    text-align: center;
+    padding-top: 20px;
+}
+.holiday-t{
+color: #070211;
+font-family: Inter;
+font-size: 24px;
+font-weight: 500;
+line-height: 10px;
+}
+.holiday-t1
+{
+color: #F00;
+font-family: Merriweather;
+font-size: 72px;
+font-weight: 900;
+}
+.holiday-span
+{
+color: black;
+font-family: Merriweather;
+font-size: 72px;
+font-weight: 900;
+}
+.holiday-description
+{
+color: black;
+font-family: Inter;
+font-size: 15px;
+font-weight: 500;
+line-height: 1.7;
 }
